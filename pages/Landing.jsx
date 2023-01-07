@@ -41,13 +41,13 @@ function Landing() {
                   users to create, share and watch videos, without worrying
                   about their privacy.
                 </p>
-               <p
+               <center><p
                   className="text-xl text-purple-100 mb-8 text-justify"
                   data-aos="zoom-y-out"
                   data-aos-delay="150"
                 >
                   This Project Buid for SHE BUILDS
-                </p>
+                </p></center>
                 <div className="flex flex-row gap-8 justify-center my-4 text-purple-400 items-center text-2xl">
                   Build With :
                   <img src="/Assets/polygon.svg" className="w-8" />
