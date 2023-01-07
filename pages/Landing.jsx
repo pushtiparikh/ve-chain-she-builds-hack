@@ -36,7 +36,7 @@ function Landing() {
                   data-aos="zoom-y-out"
                   data-aos-delay="150"
                 >
-                  VideoGram built on top of Polygon network, using the power of
+                  VE Chain built on top of Polygon network, using the power of
                   The Graph and leveraging the Storage By FileCoin x IPFS allow
                   users to create, share and watch videos, without worrying
                   about their privacy.
